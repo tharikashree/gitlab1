@@ -6,4 +6,5 @@ printf("Enter the numbers\n");
 scanf("%d%d",&a,&b);
 printf(a+b);
 printf("hello world");
+printf(a*b);
 }
