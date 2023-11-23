@@ -5,4 +5,5 @@ int a,b;
 printf("Enter the numbers\n");
 scanf("%d%d",&a,&b);
 printf(a+b);
+printf(a-b);
 }
